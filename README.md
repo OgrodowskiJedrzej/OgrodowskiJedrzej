@@ -15,7 +15,6 @@ Let's colaborate!
 
 # My stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OgrodowskiJedrzej&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OgrodowskiJedrzej&theme=dark&hide_border=false)
 
 </div>
