@@ -2,8 +2,7 @@
 
 # About me
 
-Hi, I am a BSc Computer Science student at Poznan University Of Technology. I am passionate about Artificial Intelligence, Data Science and ML algorithms. I dream of being an AI researcher in the future. Currently working on a few small private and uni projects. In my free time I am involved in music production and event organization. Big Apple fan :)
-Let's colaborate!
+Hi, I am a Computer Science student at the Poznań University of Technology. I am passionate about artificial intelligence and data science, in particular the psychology of data visualization and BI analyses. I dream of becoming an artificial intelligence researcher in the future. I am currently working on a few small private and university projects. In my free time, I am involved in music production and events organisation. Big Apple fan :) Let's colaborate!
 
 # Tech stack
 
