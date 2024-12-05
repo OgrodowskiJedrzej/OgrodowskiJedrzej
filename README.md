@@ -11,9 +11,4 @@ Hi! I'm a Computer Science student at Poznań University of Technology with a pa
     <img src="https://skillicons.dev/icons?i=git,py,cpp,mysql,bash,sklearn,azure" />
   </a>
 </p>
-
-# My stats
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OgrodowskiJedrzej&theme=dark&hide_border=false)
-
 </div>
