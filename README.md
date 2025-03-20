@@ -2,13 +2,13 @@
 
 # About me
 
-Hi! I'm a Computer Science student at Poznań University of Technology with a passion for modern statistics and data science. My key interests lie in the psychology of data visualization and BI analysis. I'm currently working on several private and academic projects and serve as the leader of the Introduction to Data Science section at my uni club. In my free time, I enjoy music production and organizing events. Also, I'm a big Apple enthusiast 🍎. Let’s collaborate!
+Hi! I'm a Computer Science student at Poznań University of Technology with a passion for data science and machine learning. My key interests lie in the psychology of data visualization, data storytelling, agentic AI and LLMs. I actively develop my skills through both private and academic projects while co-leading the Introduction to Data Science section and StatutScan RAG project at GHOST Science Club. Also, I'm a Apple enthusiast 🍎. Let’s collaborate!
 
 # Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,cpp,mysql,bash,sklearn,azure" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,azure,docker,cpp" />
   </a>
 </p>
 </div>
