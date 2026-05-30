@@ -1,9 +1,9 @@
 <div align="center">
 
 # About me
-Hi! I'm a Computer Science student at Poznań University of Technology, geeking out over machine learning. My key interests include anomaly detection, audio ML, the psychology of data visualization and LLMs.
+Hi! I'm a Computer Science student at Poznań University of Technology, geeking out over machine learning. My key interests include anomaly detection, audio ML, and AI in Healthcare.
 
-I’m an active member of the GHOST Science Club, where I’m part of the Corporate Partnership team for the international conference Ghost Day 2026. I also co-led the Introduction to Data Science section and the StatutScan RAG project.
+I’m an active member of the GHOST Science Club, where I’m part of the organizing comittee for the international conference Ghost Day 2026. I also co-led the Introduction to Data Science section.
 
 Let’s collaborate!
 
